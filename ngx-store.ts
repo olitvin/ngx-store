@@ -2,5 +2,5 @@
 // by the TypeScript language service and during build for verification. `ngc`
 // replaces this file with production ngx-store.ts when it rewrites private symbol names.
 
-export * from './public_api';
-// export * from './src/ngx-store';
+// export * from './public_api';
+export * from './src/ngx-store';
