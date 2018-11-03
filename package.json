@@ -5,7 +5,7 @@
     "description": "Angular decorators to automagically keep variables in HTML5 LocalStorage, SessionStorage, cookies; injectable services for managing and listening to data changes and a bit more.",
     "main": "./ngx-store.js",
     "main for angular5": "./bundles/ngx-store.umd.js",
-    "module": "./esm5/ngx-store.js",
+    "module": "./esm5/ngx-store.ts",
     "es2015": "./esm2015/ngx-store.js",
     "scripts": {
         "build": "node build.js",
